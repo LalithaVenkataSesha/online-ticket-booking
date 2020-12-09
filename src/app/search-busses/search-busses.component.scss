@@ -1,0 +1,31 @@
+.main {
+  border: 2px solid grey;
+  width: 30em;
+  height: 20em;
+  margin: auto;
+  font-size: 18px;
+  .destination {
+    font-style: oblique;
+    input {
+        border: 1.5px solid grey;
+    }
+  }
+  .departure {
+    font-style: oblique;
+    input{
+    border: 1.5px solid grey;
+    }
+  }
+  .departing {
+    font-style: oblique;
+    input {
+      width: 23em;
+      border: 1.5px solid grey;
+    }
+  }
+  .searchBtn {
+    width: 10em;
+    margin: auto;
+    font-style: oblique;
+  }
+}
